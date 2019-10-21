@@ -4,7 +4,7 @@ file select screen.
 
 Demo: https://www.youtube.com/watch?v=lKl4AlTqiHI&feature=youtu.be
 Instructions for patching your Super Monkey Ball 2 ISO: https://www.youtube.com/watch?v=MRLh0jDu-wg&feature=youtu.be
-Source code: https://github.com/ComplexPlane/smb2-romhacking/tree/master/iw
+Source code: https://github.com/ComplexPlane/smb2-iw-hack
 
 v0.1.2:
     Fix bug where banana counts were carried over between worlds.
